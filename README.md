@@ -3,7 +3,7 @@
 Portfolio 🛰️ 
 https://aditya-ece-cv.vercel.app/
 
-### 🚀 3rd Year ECE Student | Hardware Security | VLSI Enthusiast
+### 🚀 3rd Year ECE Student | Hardware Security | VLSI Enthusiast 
 
 I operate at the intersection of **Silicon and Security**. Currently pursuing my B.Tech in Electronics and Communication Engineering, I specialize in digital logic design, hardware-anchored security, and radiation-hardened electronics. I believe in evidence-backed growth and technical directness.
 
