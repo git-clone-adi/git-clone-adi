@@ -36,8 +36,8 @@ I operate at the intersection of **Silicon and Security**. Currently pursuing my
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/aditya-ece](#)
-- **Portfolio:** [Explore my 3D React Portfolio](#)
-- **Email:** [aditya@example.com](#)
+- **Portfolio:** https://aditya-ece-cv.vercel.app/
+- **Email:** www.linkedin.com/in/aditya-683aa93a5
 
 ---
 *"I value truth and growth over comfort. Don't sugarcoat the feedback—push the logic until it breaks, then rebuild it stronger."*
