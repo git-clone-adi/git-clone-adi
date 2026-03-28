@@ -5,7 +5,7 @@ https://aditya-ece-cv.vercel.app/
 
 ### 🚀 3rd Year ECE Student | Hardware Security | VLSI Enthusiast 
 
-I operate at the intersection of **Silicon and Security**. Currently pursuing my B.Tech in Electronics and Communication Engineering, I specialize in digital logic design, hardware-anchored security, and radiation-hardened electronics. I believe in evidence-backed growth and technical directness.
+Specializing in the development of secure, resilient hardware. My technical focus lies in digital logic design and radiation-hardened electronics, driven by a commitment to evidence-backed engineering and direct communication.
 
 ---
 
