@@ -19,24 +19,15 @@ I operate at the intersection of **Silicon and Security**. Currently pursuing my
 
 ## 🌟 Featured Engineering Projects
 
-### 🔐 [Hardware-Anchored Blockchain Identity](https://github.com/yourusername/SRAM-PUF-Auth)
-- Developed a device authentication system using **SRAM PUF (Physical Unclonable Functions)** on **STM32** hardware.
-- Integrated hardware-level identity with blockchain for tamper-proof device verification.
-
 ### 🛰️ [Radiation-Hardened FinFET Research](https://github.com/yourusername/Rad-Hard-FinFET)
 - Researched **AI-driven adaptive doping profiles** to enhance the resilience of space-grade processors.
 - Analyzed FinFET behavior under high-radiation environments for mission-critical reliability.
+- Read here -> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6143768
 
-### 🏗️ [Single-Cycle RISC-V Implementation](https://github.com/yourusername/RISCV-Verilog)
-- Designed and verified an **RV32I subset processor** using Verilog from scratch.
-- Implemented instruction decoding, ALU logic, and memory interfacing for hardware-level execution.
+
 
 ---
 
-## 🎯 Current Objectives
-- 📖 **GATE 2026:** Intensive revision of Semiconductors, Signal Processing, and Digital Circuits.
-- 🧪 **Hardware-in-the-Loop (HIL):** Refining automated verification frameworks for Edge-to-Gateway links.
-- 📈 **Quantitative Analysis:** Exploring the intersection of data-driven strategies and hardware performance.
 
 ---
 
