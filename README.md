@@ -1,8 +1,8 @@
-# 👋 Ohayō, I'm Aditya 
+# ⚡ Ohayo !! I'm ADITYA
 
-### 🚀 3rd Year ECE Student | Hardware Enthusiast | Data Analyst
+### 🚀 3rd Year ECE Student | Hardware Security | VLSI Enthusiast
 
-I bridge the gap between **Silicon and Insights**. Currently pursuing my B.Tech in Electronics and Communication Engineering, I spend my time designing digital logic in Verilog, firmware for STM32, and building data-driven prototypes for the EdTech sector.
+I operate at the intersection of **Silicon and Security**. Currently pursuing my B.Tech in Electronics and Communication Engineering, I specialize in digital logic design, hardware-anchored security, and radiation-hardened electronics. I believe in evidence-backed growth and technical directness.
 
 ---
 
@@ -10,42 +10,40 @@ I bridge the gap between **Silicon and Insights**. Currently pursuing my B.Tech 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Hardware / VLSI** | Verilog, VHDL, STM32, ESP32, FPGA Prototyping, RISC-V |
-| **Data & Software** | Python, SQL (SQLite), Pandas, Scikit-Learn, Streamlit |
-| **Cybersecurity** | Hardware-Anchored Blockchain Identity, SRAM PUF |
-| **Web Dev** | React, Node.js, Tailwind CSS |
+| **Hardware / VLSI** | Verilog, VHDL, RISC-V (RV32I), FPGA Prototyping, FinFET Design |
+| **Embedded Systems** | STM32 (Nucleo), ESP32, FreeRTOS, HIL Verification |
+| **Security & Data** | SRAM PUF, Hardware-Anchored Blockchain, Python (Pandas/Scikit-Learn) |
+| **Software Dev** | React (3D Portfolios), Node.js, Tailwind CSS |
 
 ---
 
-## 🌟 Featured Projects
-
-### 📊 [MiniEklavyaProto](https://github.com/yourusername/MiniEklavyaProto)
-*An EdTech Product Analytics Dashboard.*
-- Engineered a **200,000+ record** synthetic data pipeline to simulate platform engagement.
-- Implemented **K-Means Clustering** to segment users into "Champions" and "At-Risk" cohorts.
-- Built with **SQL, Python, and Streamlit**.
+## 🌟 Featured Engineering Projects
 
 ### 🔐 [Hardware-Anchored Blockchain Identity](https://github.com/yourusername/SRAM-PUF-Auth)
-- Developed a device authentication system using **SRAM PUF (Physical Unclonable Functions)** on an **STM32** board.
-- Anchored hardware identity to a blockchain for secure, tamper-proof device verification.
+- Developed a device authentication system using **SRAM PUF (Physical Unclonable Functions)** on **STM32** hardware.
+- Integrated hardware-level identity with blockchain for tamper-proof device verification.
 
 ### 🛰️ [Radiation-Hardened FinFET Research](https://github.com/yourusername/Rad-Hard-FinFET)
-- Focused on **AI-driven adaptive doping profiles** for space-grade processors.
-- Researched electronics resilience in high-radiation environments.
+- Researched **AI-driven adaptive doping profiles** to enhance the resilience of space-grade processors.
+- Analyzed FinFET behavior under high-radiation environments for mission-critical reliability.
+
+### 🏗️ [Single-Cycle RISC-V Implementation](https://github.com/yourusername/RISCV-Verilog)
+- Designed and verified an **RV32I subset processor** using Verilog from scratch.
+- Implemented instruction decoding, ALU logic, and memory interfacing for hardware-level execution.
 
 ---
 
-## 🎯 Current Focus
-- 📖 **GATE 2026 Preparation:** Deep diving into Electronic Devices, Circuits, and Signal Processing.
-- 🏗️ **RISC-V Architectures:** Implementing single-cycle subsets in Verilog.
-- 🤖 **Product Analytics:** Leveraging data to drive B2B SaaS growth.
+## 🎯 Current Objectives
+- 📖 **GATE 2026:** Intensive revision of Semiconductors, Signal Processing, and Digital Circuits.
+- 🧪 **Hardware-in-the-Loop (HIL):** Refining automated verification frameworks for Edge-to-Gateway links.
+- 📈 **Quantitative Analysis:** Exploring the intersection of data-driven strategies and hardware performance.
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **Portfolio:** [Check out my 3D Portfolio built with React](#)
-- **Email:** [yourname@email.com](#)
+- **LinkedIn:** [linkedin.com/in/aditya-ece](#)
+- **Portfolio:** [Explore my 3D React Portfolio](#)
+- **Email:** [aditya@example.com](#)
 
 ---
-*"I don't want empty compliments; I value truth and growth over comfort. Always pushing the boundaries of what's possible in silicon."*
+*"I value truth and growth over comfort. Don't sugarcoat the feedback—push the logic until it breaks, then rebuild it stronger."*
