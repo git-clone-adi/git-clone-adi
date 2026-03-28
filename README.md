@@ -1,4 +1,4 @@
-# 👋 Namaste, I'm Aditya (Jolly Mishra)
+# 👋 Ohayō, I'm Aditya 
 
 ### 🚀 3rd Year ECE Student | Hardware Enthusiast | Data Analyst
 
