@@ -3,7 +3,7 @@
 Portfolio 🛰️ 
 https://aditya-ece-cv.vercel.app/
 
-### 🚀 3rd Year ECE Student | Security | VLSI | Blockchain | AI
+### 🚀 3rd Year Student | Security | VLSI | Blockchain | AI | PCB | WeB-Dev 
 
 I build at the intersection of silicon and software — from radiation-hardened FinFET circuits to AI-powered RTL engines and 3D web portfolios. My work is driven by a commitment to evidence-backed engineering and direct, no-fluff communication.
 
